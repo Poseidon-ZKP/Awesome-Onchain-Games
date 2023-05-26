@@ -4,7 +4,8 @@ A curated list of onchain game resources. PR if you think there is a high qualit
 
 ## Thesis
 
-[Autonomous Worlds](https://0xparc.org/blog/autonomous-worlds)
+* [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis)
+* [Autonomous Worlds](https://0xparc.org/blog/autonomous-worlds)
 
 ## Technical Analysis
 * [Unblocking On-Chain Games: Part One — Throughput](https://medium.com/alliancedao/unblocking-on-chain-games-part-one-throughput-d0dc7a4defab)
